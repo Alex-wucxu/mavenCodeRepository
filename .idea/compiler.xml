@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="1500" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Code" />
+        <module name="cxy-memcached" />
+        <module name="cxy-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="Code" target="1.5" />
+      <module name="cxy-memcached" target="1.5" />
+      <module name="cxy-util" target="1.5" />
+      <module name="cxyutil" target="1.5" />
+      <module name="mavenCodeRepository" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

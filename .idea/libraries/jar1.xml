@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jar1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AlexUtil/jar/httpcore-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AlexUtil/jar/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AlexUtil/jar/httpclient-4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
